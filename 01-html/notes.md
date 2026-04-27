@@ -65,3 +65,6 @@ Typically relative paths are used. So the path to get to that file in specific t
 
 ./ = Within our current directory
 ../ = Going up a level
+
+
+Shortcut for the boilerplate is hitting enter after putting in an "!"
