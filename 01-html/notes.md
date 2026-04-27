@@ -50,7 +50,7 @@ example:
 `<a>` = anchor tag.
     example : `    <a href = "https://www.linkedin.com/in/adamelshanawany/">My  LinkedIn </a>`
 
-Allows us to create hyperlinks, whether that be for a website, email address, file, etc.
+Allows us to create hyperlinks, whether that be for a website, different tabs, email address, file, etc.
 
 `<img />` = image tag.
     example: `<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" alt="kitten held in hand" />`
