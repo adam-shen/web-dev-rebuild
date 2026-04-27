@@ -58,3 +58,10 @@ Allows us to create hyperlinks, whether that be for a website, email address, fi
 Allows us to show an image element, but we must input the image source.
 
 Note:  Skipped 3.4 because too simple for me to be bothered to complete it.
+
+
+### File  Paths
+Typically relative paths are used. So the path to get to that file in specific to where the file you are currently working on is at.
+
+./ = Within our current directory
+../ = Going up a level
