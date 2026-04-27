@@ -56,3 +56,5 @@ Allows us to create hyperlinks, whether that be for a website, email address, fi
     example: `<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" alt="kitten held in hand" />`
 
 Allows us to show an image element, but we must input the image source.
+
+Note:  Skipped 3.4 because too simple for me to be bothered to complete it.
